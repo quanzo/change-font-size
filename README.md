@@ -20,7 +20,7 @@ npm i --save-dev @quanzo/change-font-size
 Include module at your application
 
 ```javascript
-const InlineCode = require('@quanzo/change-font-size');
+const ChangeFontSize = require('@quanzo/change-font-size');
 ```
 
 ### Download to your project's source dir
